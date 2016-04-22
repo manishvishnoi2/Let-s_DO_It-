@@ -1,2 +1,3 @@
 # Let-s_DO_It-
 Trying to learn new things...
+This thing seems to be interesting.Let's see what happens.
